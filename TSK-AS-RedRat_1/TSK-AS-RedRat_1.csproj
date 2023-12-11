@@ -19,7 +19,7 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Newtonsoft.Json">
-	    <HintPath>..\..\..\..\..\..\Skyline DataMiner\ProtocolScripts\DllImport\newtonsoft.json\13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+	    <HintPath>..\Dlls\Newtonsoft.Json.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 	<ProjectExtensions>
