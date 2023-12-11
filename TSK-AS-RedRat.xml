@@ -27,7 +27,7 @@
 	<Script>
 		<Exe id="4" type="csharp">
 			<Value><![CDATA[[Project:TSK-AS-RedRat_1]]]></Value>
-			<Param type="ref">C:\Skyline DataMiner\ProtocolScripts\DllImport\newtonsoft.json\13.0.3\lib\net45\Newtonsoft.Json.dll</Param>
+			<Param type="ref">./Dlls/Newtonsoft.Json.dll</Param>
 			<Message></Message>
 		</Exe>
 		
